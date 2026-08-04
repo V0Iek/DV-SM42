@@ -1,0 +1,13 @@
+{
+	"Id":"1",
+	"DisplayName":"DH4",
+	"Version":"1.0.0",
+	"Author":"VOIek",
+	"HomePage":"",
+	"Repository":"",
+	"ManagerVersion":"0.27.3",
+	"Requirements":[
+		"DVCustomCarLoader"
+	],
+	"LoadAfter":[]
+}

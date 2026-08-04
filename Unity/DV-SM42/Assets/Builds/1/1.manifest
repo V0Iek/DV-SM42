@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 4096077653
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ccl_bundle
+      Dependencies: {}
