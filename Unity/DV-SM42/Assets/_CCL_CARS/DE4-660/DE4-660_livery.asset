@@ -30,7 +30,7 @@ MonoBehaviour:
   FrontBogie: 50
   RearBogie: 50
   BufferType: 350
-  HasMUCable: 0
+  HasMUCable: 1
   UseCustomHosePositions: 0
   HideHookPlates: 0
   HideFrontCoupler: 0

@@ -1,0 +1,13 @@
+{
+	"Id":"DE4-660",
+	"DisplayName":"DE4-660",
+	"Version":"0.0.7",
+	"Author":"VOIek",
+	"HomePage":"",
+	"Repository":"",
+	"ManagerVersion":"0.27.3",
+	"Requirements":[
+		"DVCustomCarLoader"
+	],
+	"LoadAfter":[]
+}

@@ -24,7 +24,7 @@ MonoBehaviour:
   NameTranslationJson: '[{"Language":"English","Value":"DE4-660"}]'
   liveries:
   - {fileID: 11400000, guid: e281597d84a9fde67aa6af3e134c6c7d, type: 2}
-  mass: 25000
+  mass: 70000
   bogieSuspensionMultiplier: 1
   rollingResistanceCoefficient: 0.002
   wheelSlidingFrictionCoefficient: 0.13
