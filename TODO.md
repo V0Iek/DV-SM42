@@ -1,0 +1,7 @@
+- Prędkościomierz
+- Amperomierz
+- Orotomierz
+- Manometr przewodu głównego
+- Manometr cylindra hamulcowego
+- Kontrolka niskiego ciśnienia
+- Kontrolka przegrzewania

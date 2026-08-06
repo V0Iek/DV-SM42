@@ -538,6 +538,7 @@ MonoBehaviour:
   portId: 
   indicatorRangeScalerPortId: 
   fuseId: 
+  useZeroAsDefaultValue: 0
   valueMultiplier: 1
   valueOffset: 0
   useAbsoluteValue: 0

@@ -73,11 +73,12 @@ MonoBehaviour:
   Gauge: 1435
   unusedCarDeletePreventionMode: 0
   CargoSetup: {fileID: 0}
-  SimAudioPrefab: {fileID: 0}
+  SimAudioPrefab: {fileID: 5577960756020521177, guid: 4f685c3854008e20281624176cc6287c,
+    type: 3}
   HUDLayout: {fileID: 0}
   GeneralLicense: 
   JobLicenses: []
-  TutorialType: 0
+  TutorialType: 100
   Tutorial: {fileID: 0}
   brakesJson: '{"brakeCylinderPressureCalculation":"Regular","brakeValveType":"SelfLap","brakingForcePerBogieMultiplier":1,"hasCompressor":true,"hasHandbrake":true,"hasIndependentBrake":true,"hasMainResConnections":false,"ignoreOverheating":false,"IndBrakeCurve":{"keys":[],"postWrapMode":"ClampForever","preWrapMode":"ClampForever"},"IndBrakeCurveType":"LocoDefault","TrainBrakeCurve":{"keys":[],"postWrapMode":"ClampForever","preWrapMode":"ClampForever"},"TrainBrakeCurveType":"LocoDefault"}'
   damageJson: '{"bodyPrice":0,"damageMultiplier":1,"damageResistance":50,"damageTolerance":0.01,"electricalPowertrainHP":0,"electricalPowertrainPrice":0,"fireDamageMultiplier":1,"fireResistance":7.5,"ignoreDamage":false,"maxHealth":8000,"mechanicalPowertrainHP":0,"mechanicalPowertrainPrice":0,"wheelsHP":0,"wheelsPrice":0}'
