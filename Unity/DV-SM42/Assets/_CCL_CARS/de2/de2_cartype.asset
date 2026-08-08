@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -701297949, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: DE4-660_cartype
+  m_Name: de2_cartype
   m_EditorClassIdentifier: 
   KindSelection: 2
-  id: DE4-660
+  id: de2
   carIdPrefix: '-'
   IsSteamLocomotive: 0
-  localizationKey: ccl/car/DE4-660
+  localizationKey: ccl/car/de2
   NameTranslations:
     Items:
     - Language: 0
-      Value: DE4-660
-  NameTranslationJson: '[{"Language":"English","Value":"DE4-660"}]'
+      Value: de2
+  NameTranslationJson: '[{"Language":"English","Value":"de2"}]'
   liveries:
-  - {fileID: 11400000, guid: e281597d84a9fde67aa6af3e134c6c7d, type: 2}
-  mass: 70000
+  - {fileID: 11400000, guid: e08e3721f8fc963f5a5bbc57d5be6c3a, type: 2}
+  mass: 25000
   bogieSuspensionMultiplier: 1
-  rollingResistanceCoefficient: 0.0015
-  wheelSlidingFrictionCoefficient: 0.32
-  wheelslipFrictionCoefficient: 0.35
+  rollingResistanceCoefficient: 0.002
+  wheelSlidingFrictionCoefficient: 0.13
+  wheelslipFrictionCoefficient: 0.2
   brakes:
     hasCompressor: 1
-    hasMainResConnections: 1
+    hasMainResConnections: 0
     brakeValveType: 1
     hasIndependentBrake: 1
     hasHandbrake: 1
@@ -67,18 +67,17 @@ MonoBehaviour:
     wheelsPrice: 0
     electricalPowertrainPrice: 0
     mechanicalPowertrainPrice: 0
-  wheelRadius: 0.55
+  wheelRadius: 0.459
   useDefaultWheelRotation: 1
   UseCustomGauge: 0
   Gauge: 1435
   unusedCarDeletePreventionMode: 0
   CargoSetup: {fileID: 0}
-  SimAudioPrefab: {fileID: 5577960756020521177, guid: 4f685c3854008e20281624176cc6287c,
-    type: 3}
+  SimAudioPrefab: {fileID: 0}
   HUDLayout: {fileID: 0}
   GeneralLicense: 
   JobLicenses: []
-  TutorialType: 100
+  TutorialType: 0
   Tutorial: {fileID: 0}
-  brakesJson: '{"brakeCylinderPressureCalculation":"Regular","brakeValveType":"SelfLap","brakingForcePerBogieMultiplier":1,"hasCompressor":true,"hasHandbrake":true,"hasIndependentBrake":true,"hasMainResConnections":true,"ignoreOverheating":false,"IndBrakeCurve":{"keys":[],"postWrapMode":"ClampForever","preWrapMode":"ClampForever"},"IndBrakeCurveType":"LocoDefault","TrainBrakeCurve":{"keys":[],"postWrapMode":"ClampForever","preWrapMode":"ClampForever"},"TrainBrakeCurveType":"LocoDefault"}'
+  brakesJson: '{"brakeCylinderPressureCalculation":"Regular","brakeValveType":"SelfLap","brakingForcePerBogieMultiplier":1,"hasCompressor":true,"hasHandbrake":true,"hasIndependentBrake":true,"hasMainResConnections":false,"ignoreOverheating":false,"IndBrakeCurve":null,"IndBrakeCurveType":"LocoDefault","TrainBrakeCurve":null,"TrainBrakeCurveType":"LocoDefault"}'
   damageJson: '{"bodyPrice":0,"damageMultiplier":1,"damageResistance":50,"damageTolerance":0.01,"electricalPowertrainHP":0,"electricalPowertrainPrice":0,"fireDamageMultiplier":1,"fireResistance":7.5,"ignoreDamage":false,"maxHealth":8000,"mechanicalPowertrainHP":0,"mechanicalPowertrainPrice":0,"wheelsHP":0,"wheelsPrice":0}'

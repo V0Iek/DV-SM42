@@ -10,20 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 711031822, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: DE4-660_pack
+  m_Name: de6_pack
   m_EditorClassIdentifier: 
-  PackId: DE4-660
-  PackName: DE4-660
-  Author: VOIek
-  Version: 0.2.0
+  PackId: de6
+  PackName: de6
+  Author: de6
+  Version: 1.0.0
   HomePage: 
   Repository: 
   Cars:
-  - {fileID: 11400000, guid: 1dc62151481ef2b7192cc9a9dceeeac1, type: 2}
+  - {fileID: 11400000, guid: d04b2f71cc11dc3c59b562460294882e, type: 2}
   ExtraModels: []
   PaintSubstitutions: []
   ProceduralMaterials: {fileID: 0}
   ExtraTranslations: {fileID: 0}
   AdditionalDependencies: []
   _buttons: 0
-  ExporterVersion: 3.1.8
+  ExporterVersion: 

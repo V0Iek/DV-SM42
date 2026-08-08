@@ -10,28 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 945288799, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: DE4-660_livery
+  m_Name: de2_livery
   m_EditorClassIdentifier: 
-  parentType: {fileID: 11400000, guid: 1dc62151481ef2b7192cc9a9dceeeac1, type: 2}
-  id: DE4-660
-  NameTranslationJson: '[{"Language":"English","Value":"DE4-660"}]'
+  parentType: {fileID: 11400000, guid: 91412074ec0525fd1823013302e4a6e5, type: 2}
+  id: de2
+  NameTranslationJson: '[{"Language":"English","Value":"de2"}]'
   NameTranslations:
     Items:
     - Language: 0
-      Value: DE4-660
+      Value: de2
   icon: {fileID: 0}
-  localizationKey: ccl/livery/DE4-660
-  prefab: {fileID: 1688182864204300644, guid: 60eb4d3f7ed9abc439ffb235a1d3618f, type: 3}
-  interiorPrefab: {fileID: 409684610442858237, guid: d29309cab41be1c9ab631131c9260a14,
-    type: 3}
+  localizationKey: ccl/livery/de2
+  prefab: {fileID: 1688182864204300644, guid: 603a180ca8ee7cea391544b73ef5707b, type: 3}
+  interiorPrefab: {fileID: 0}
   explodedInteriorPrefab: {fileID: 0}
-  externalInteractablesPrefab: {fileID: 1312500395324393714, guid: 30c8cbd7dc7b71fe492bf3b534bf9b74,
+  externalInteractablesPrefab: {fileID: 1312500395324393714, guid: 5d35db8d792b584b393196f051dafd9f,
     type: 3}
   explodedExternalInteractablesPrefab: {fileID: 0}
-  FrontBogie: 50
-  RearBogie: 50
+  FrontBogie: 10
+  RearBogie: 10
   BufferType: 350
-  HasMUCable: 1
+  HasMUCable: 0
   UseCustomHosePositions: 0
   HideHookPlates: 0
   HideFrontCoupler: 0
