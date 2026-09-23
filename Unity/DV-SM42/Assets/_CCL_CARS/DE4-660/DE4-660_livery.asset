@@ -37,12 +37,34 @@ MonoBehaviour:
   HideFrontCoupler: 0
   HideBackCoupler: 0
   TrainsetLiveries: []
-  LocoSpawnGroups: []
-  _spawnGroupJson: '[]'
+  LocoSpawnGroups:
+  - Track: 1801
+    AdditionalLiveries: []
+  - Track: 1002
+    AdditionalLiveries: []
+  - Track: 1005
+    AdditionalLiveries: []
+  - Track: 0
+    AdditionalLiveries: []
+  - Track: 100
+    AdditionalLiveries: []
+  - Track: 200
+    AdditionalLiveries: []
+  - Track: 300
+    AdditionalLiveries: []
+  - Track: 400
+    AdditionalLiveries: []
+  - Track: 1307
+    AdditionalLiveries: []
+  - Track: 1304
+    AdditionalLiveries: []
+  - Track: 1500
+    AdditionalLiveries: []
+  _spawnGroupJson: '[{"AdditionalLiveries":[],"Track":"SteelMillTurntable2"},{"AdditionalLiveries":[],"Track":"HarbourRoundhouse2"},{"AdditionalLiveries":[],"Track":"HarbourRoundhouse5"},{"AdditionalLiveries":[],"Track":"CitySouth"},{"AdditionalLiveries":[],"Track":"CityWest"},{"AdditionalLiveries":[],"Track":"CoalMineEast"},{"AdditionalLiveries":[],"Track":"CoalMineSouth"},{"AdditionalLiveries":[],"Track":"CoalPowerPlant"},{"AdditionalLiveries":[],"Track":"MachineFactoryRoundhouse7"},{"AdditionalLiveries":[],"Track":"MachineFactoryRoundhouse4"},{"AdditionalLiveries":[],"Track":"OilWellCentral"}]'
   UnlockableAsWorkTrain: 0
-  UnlockPrice: 30000
+  UnlockPrice: 40000
   SummonPrice: 5000
-  CatalogPage: {fileID: 0}
+  CatalogPage: {fileID: 11400000, guid: bb68be9eee4df6be18e4b7ea4e65b3e6, type: 2}
   MaxRepeatedSpawn: 0
   AllowOnRegionalRoutes: 1
   AllowOnExpressRoutes: 1

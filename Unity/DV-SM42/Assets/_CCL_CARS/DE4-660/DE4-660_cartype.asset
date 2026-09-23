@@ -71,7 +71,7 @@ MonoBehaviour:
   useDefaultWheelRotation: 1
   UseCustomGauge: 0
   Gauge: 1435
-  unusedCarDeletePreventionMode: 0
+  unusedCarDeletePreventionMode: 10
   CargoSetup: {fileID: 0}
   SimAudioPrefab: {fileID: 5577960756020521177, guid: 4f685c3854008e20281624176cc6287c,
     type: 3}

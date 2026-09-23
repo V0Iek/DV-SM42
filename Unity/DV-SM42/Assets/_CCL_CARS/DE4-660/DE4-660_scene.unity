@@ -262,6 +262,26 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -0.46
       objectReference: {fileID: 0}
+    - target: {fileID: 1567741101821396452, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
+        type: 3}
+      propertyPath: wipers.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567741101821396452, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
+        type: 3}
+      propertyPath: visuals.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567741101821396452, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
+        type: 3}
+      propertyPath: duplicates.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1567741101821396452, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
+        type: 3}
+      propertyPath: windowEdges.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1630636205852546539, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
         type: 3}
       propertyPath: m_IsActive
@@ -504,64 +524,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 60eb4d3f7ed9abc439ffb235a1d3618f, type: 3}
---- !u!1 &1821370493 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1688182864204300644, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
-    type: 3}
-  m_PrefabInstance: {fileID: 1821370492}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1821370494 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 2461860699422263122, guid: 60eb4d3f7ed9abc439ffb235a1d3618f,
-    type: 3}
-  m_PrefabInstance: {fileID: 1821370492}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1821370495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1821370493}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1251517657, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  poweredWheels:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  GetWheelsFromDefaultBogies: 1
---- !u!114 &1821370496
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1821370493}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 755482942, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  wheelTransform: {fileID: 0}
-  localRotationAxis: {x: 1, y: 0, z: 0}
---- !u!114 &1821370497
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1821370493}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 755482942, guid: b247489fc36790c41b197410cd8386d9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  wheelTransform: {fileID: 1821370494}
-  localRotationAxis: {x: 1, y: 0, z: 0}
 --- !u!1001 &68498562072516544
 PrefabInstance:
   m_ObjectHideFlags: 0
